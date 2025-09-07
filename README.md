@@ -21,7 +21,7 @@ This repo summarizes key concepts, provides resources, and showcases my poster &
 
 ---
 
-## 📖 Resources  
+## 📖 References  
 
 1. J. Eschmann, *Reward function design in reinforcement learning*, Studies in Computational Intelligence. Cham, Switzerland: Springer, 2021, pp. 25–33.  
 2. N. M. White, *Reward or reinforcement: What’s the difference?* Neurosci. Biobehavioral Rev., vol. 13, nos. 2–3, pp. 181–186, Jun. 1989.  
